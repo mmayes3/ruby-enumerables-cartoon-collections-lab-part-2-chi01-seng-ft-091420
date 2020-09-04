@@ -22,4 +22,4 @@ def find_valid_calls(planeteer_calls)
     valid_calls.include?(element)
   end
 end
-puts find_valid_calls(["Cloud!", "earth", "Wind!", "cat", "Heart!"])
+puts long_planeteer_calls(["Cloud!", "earth", "Wind!", "cat", "Heart!"])
